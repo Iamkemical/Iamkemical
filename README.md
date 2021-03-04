@@ -10,5 +10,5 @@
 - 💬 Ask me about .NET, ASP.NET Core, and C#.
 - 📫 How to reach me: iamkemical1@gmail.com.
 - 😄 Pronouns: He/Him.
-- ⚡ Fun fact: The code hers only runs on localhost.
+- ⚡ Fun fact: The code here only runs on localhost.
 
