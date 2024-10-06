@@ -7,8 +7,7 @@
 - 🌱 I’m currently learning Node.js and Cloud Computing.
 - 👯 I’m looking to collaborate on API and open source projects.
 - 🤔 I’m looking for help with Docker and Kubernetes.
-- 💬 Ask me about .NET, ASP.NET Core, and C#.
+- 💬 Ask me about .NET, ASP.NET Core, Node.js, Javascript, and C#.
 - 📫 How to reach me: iamkemical1@gmail.com.
 - 😄 Pronouns: He/Him.
 - ⚡ Fun fact: The code here only runs on localhost.
-
